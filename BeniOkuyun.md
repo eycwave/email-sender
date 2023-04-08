@@ -1,4 +1,3 @@
-# VizeProje
 Java dilinde üye listeleri tutup ilgili listelerdeki kişilere mail gönderme projesi.
 
 Öğrenci Numarası: 22120205014  
