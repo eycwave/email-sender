@@ -1,6 +1,6 @@
 # Java-FileHandler-EmailSender-Program
 A project to create member lists in Java and send e-mails to the people in the relevant lists.
-The project includes file operations such as creating file, file i/o and sending e-mail.
+The project includes file operations such as creating file, file i/o and sending e-mail. This project was a project I developed for my exam at university. 
 
 Lists are divided into "Elit Üyeler" and "Genel Üyeler" and these lists are saved in a '.txt' file where the project is located.
 You can add or remove members to lists and send emails to one or both of them these list.
